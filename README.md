@@ -17,6 +17,10 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
+<p align="left">
+https://coursera.org/share/841688e05e485026585ce2203d0c5adf
+<P>
+
 
 
 
